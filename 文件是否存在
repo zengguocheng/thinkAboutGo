@@ -1,4 +1,3 @@
-`
 package main
 
 import (
@@ -30,4 +29,3 @@ func main() {
         fmt.Println("path exists 2", path)
     }
 }
-`
